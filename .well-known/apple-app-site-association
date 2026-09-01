@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "HMZKH56788.com.tuncakat.between"
+        ],
+        "components": [
+          {
+            "/": "/partner-connect",
+            "?": {
+              "code": "*"
+            },
+            "comment": "Open IN-BETWEEN Couple Mode partner invite links in the iOS app."
+          }
+        ]
+      }
+    ]
+  }
+}
